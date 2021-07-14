@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dashys/MaxioHubV1/main/MaxioHubV1'))() --Maxio Hub V1 Loadstring
